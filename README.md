@@ -15,4 +15,4 @@ This project demonstrates how to generate QR codes using Python with the `qrcode
 Run the script to generate a QR code for any URL or data you want.
 
 ```bash
-python qr_code_generator.py
+qr_code_generator.py
